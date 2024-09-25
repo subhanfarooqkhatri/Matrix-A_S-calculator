@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: linear-gradient(to right, rgb(0, 37, 70) , rgb(25, 149, 139));
+  
+  
+  }
+  h1{
+    color: rgb(121, 250, 7);
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  
+  .size-inputs {
+    margin-bottom: 20px;
+    
+  }
+  .size-inputs label{
+    color: rgb(121, 250, 7);
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .size-inputs #rows {
+    width: 10%;
+    height: 10%;
+    font-size: 16px;
+    font-weight: 700;
+    font-family:  sans-serif;
+  }
+  
+  .size-inputs #cols {
+    width: 10%;
+    height: 10%;
+    font-size: 16px;
+    font-weight: 700;
+    font-family:  sans-serif;
+  }
+  
+  button{
+    background-color: rgb(25, 145, 139);
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding: 10px;
+    margin-top: 25px;
+  }
+  
+  .matrix-container {
+    margin: 20px 0;
+    color: rgb(121, 250, 7);
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-bottom: 5px;
+    background-color: rgb(54, 106, 132);
+    
+  }
+  
+  input[type="number"] {
+    width: 50px;
+    margin: 0;
+    padding: 5px;
+    font-size: 16px;
+    font-family:  sans-serif;
+    font-weight: 600;
+    
+  }
+  
+  th, td {
+    border: 2px solid #dedede;
+    padding: 5px;
+    text-align: center;
+    
+  }
+  h3{
+    color: rgb(121, 250, 7);
+    font-size: 25px;
+    font-family: sans-serif;
+  }
+  .operation-selection label{
+    font-size: 18px;
+    font-weight: 600;
+    font-family:  sans-serif;
+  }
+  
+  h2{
+    color: rgb(121, 250, 7);
+    font-size: 25px;
+    font-family: sans-serif;
+  }
+  
+  .results-container {
+    margin-top: 15px;
+    color: rgb(121, 250, 7);
+  }
+  
+  .result-input {
+    width: 70px; 
+    margin: 5px; 
+    text-align: center; 
+    font-size: 16px;
+    font-family:  sans-serif;
+    font-weight: 600;
+   
+  }
+  
